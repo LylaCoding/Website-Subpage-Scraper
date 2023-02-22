@@ -8,3 +8,6 @@ This is a Python script that allows you to scrape all the internal links on a we
 
 Usage:
 To use this script, you must have Python installed on your computer. To run the script, open a terminal and navigate to the directory where the script is saved. Then, type "python website-subpage-scraper.py" and hit enter. The script will prompt you for a URL to scrape (please note that you must include the http/https part of the url in order for the program to work), and then ask you whether you want to print the links to the terminal or save them to a file. The output will be printed to the terminal or saved to a file named "output.txt".
+
+Disclaimer:
+This tool should only be used on websites you have permision to use it on. This tool may not work on certain larger websites but may work on smaller sites like blogs for example. I accept no responsibilty for any trouble you may encure from using this tool.
