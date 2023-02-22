@@ -1,5 +1,8 @@
 # Website-Subpage-Scraper
 
+Window View Version:
+I have  created an app version of the script that runs like a normal app would. if you would like to use this version you can, it is alot simpler to use. If you decide to use the app version disregard what is mentioned below
+
 Description:
 This is a Python script that allows you to scrape all the internal links on a webpage. The script prompts the user for a URL, and then sends a GET request to the URL to retrieve the HTML content. It then uses the BeautifulSoup module to parse the HTML and find all the links on the page. The script filters out external links and links that don't start with the base URL, and removes any duplicates. Finally, the script prompts the user for an output mode and either prints the list of links to the terminal or writes them to a file. If the required modules (requests and beautifulsoup4) are not already installed, the script will automatically install them for you.
 
